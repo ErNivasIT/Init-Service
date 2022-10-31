@@ -4,7 +4,7 @@ version: '3.4'
 
 services:
   initservice:
-    image: initservice:1.0.1
+    image: initservice:1.0.2
     build:
       context: .
       dockerfile: Init-Service/Dockerfile

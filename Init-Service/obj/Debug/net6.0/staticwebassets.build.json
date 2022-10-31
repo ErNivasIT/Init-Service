@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PPJPhKItaaUHjcaCyme5MDTnCndGEv43CxXLg9zoLk8=",
+  "Source": "Init-Service",
+  "BasePath": "_content/Init-Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

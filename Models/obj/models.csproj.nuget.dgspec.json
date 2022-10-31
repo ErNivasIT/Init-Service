@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shree\\DockerApps\\App-Solution\\models\\models.csproj": {}
+    "D:\\Shree\\DockerApps\\App-Solution\\Models\\Models.csproj": {}
   },
   "projects": {
-    "D:\\Shree\\DockerApps\\App-Solution\\models\\models.csproj": {
+    "D:\\Shree\\DockerApps\\App-Solution\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shree\\DockerApps\\App-Solution\\models\\models.csproj",
-        "projectName": "models",
-        "projectPath": "D:\\Shree\\DockerApps\\App-Solution\\models\\models.csproj",
+        "projectUniqueName": "D:\\Shree\\DockerApps\\App-Solution\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\Shree\\DockerApps\\App-Solution\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Shree\\DockerApps\\App-Solution\\models\\obj\\",
+        "outputPath": "D:\\Shree\\DockerApps\\App-Solution\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

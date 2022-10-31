@@ -7,11 +7,11 @@ ENV ASPNETCORE_URLS=http://+:80
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["./App-Solution.sln", "/"]
-COPY ["Init-Service/Init-Service.csproj", "Init-Service/"]
+COPY ["Models/Models.csproj", "Models/"]
 COPY ["Business/Business.csproj", "Business/"]
 COPY ["DataAccess/DataAccess.csproj", "DataAccess/"]
-COPY ["Models/Models.csproj", "Models/"]
-
+COPY ["Init-Service/Init-Service.csproj", "Init-Service/"]
+COPY *.sln .
 RUN dotnet restore 
 COPY . .
 WORKDIR "/src"

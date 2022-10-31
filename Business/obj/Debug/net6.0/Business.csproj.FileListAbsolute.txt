@@ -1,0 +1,15 @@
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Shree\DockerApps\App-Solution\Business\bin\Debug\net6.0\Business.deps.json
+D:\Shree\DockerApps\App-Solution\Business\bin\Debug\net6.0\Business.dll
+D:\Shree\DockerApps\App-Solution\Business\bin\Debug\net6.0\Business.pdb
+D:\Shree\DockerApps\App-Solution\Business\bin\Debug\net6.0\Models.dll
+D:\Shree\DockerApps\App-Solution\Business\bin\Debug\net6.0\Models.pdb
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.dll
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\Business.pdb
+D:\Shree\DockerApps\App-Solution\Business\obj\Debug\net6.0\ref\Business.dll
